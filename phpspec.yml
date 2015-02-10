@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Samira
+        psr4_prefix: Samira
+        src_path: app
